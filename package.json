@@ -1,0 +1,17 @@
+{
+  "name": "shock_patalock_bot",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "author": "DarkHole",
+  "license": "MIT",
+  "dependencies": {
+    "@types/fs-extra": "^11.0.1",
+    "@types/node-cron": "^3.0.7",
+    "fs-extra": "^11.1.1",
+    "grammy": "^1.16.1",
+    "node-cron": "^3.0.2",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4",
+    "zod": "^3.21.4"
+  }
+}
